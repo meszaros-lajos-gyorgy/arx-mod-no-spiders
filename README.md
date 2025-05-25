@@ -5,6 +5,8 @@ An Arx Fatalis mod that removes spiders from the game
 **Compatible with
 [Arx Libertatis Mod Manager](https://github.com/fredlllll/ArxLibertatisModManager)**
 
+![Preview](preview.jpg?raw=true "Preview")
+
 ## Features
 
 - removes all spiders (even ones that have already been killed)
